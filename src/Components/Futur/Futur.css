@@ -1,0 +1,31 @@
+.workexperience-section-f{
+    margin-top: -30px;
+}
+
+.tech-skills p{
+    background-color: rgb(28, 7, 33);
+    border-radius: 90px;
+    color: rgb(214, 214, 185);
+    padding: 10px;
+    text-align: center;
+    }
+    
+    .tech-skills p:hover{
+        background-color: rgb(208, 164, 216);
+        color: rgb(0, 0, 0);
+        cursor: pointer;
+        }
+    
+    .date-class{
+        color: rgb(32, 6, 29);
+    }
+    
+    .workexperience-section{
+        margin-top: 90px;
+        margin-bottom: 50px;
+    }
+    
+    .timeline-section{
+    margin-top: 50px;
+    }
+

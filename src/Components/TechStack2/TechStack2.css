@@ -1,0 +1,89 @@
+.techstack-section-2{
+    margin-top: 150px;
+    height: auto;
+    margin-bottom: 140px;
+}
+
+.section-title h5{
+    text-align: center;
+
+}
+
+.section-title h6{
+    text-align: center;
+    opacity: 0.5;
+
+}
+.tech-line{
+    display: block;
+    width: 130px;
+    height: 3px;
+    margin: 1px auto;
+    background-color: #1e0120e8;
+}
+
+.tech-content-t{
+    -webkit-box-shadow: 20px 20px 9px -12px rgba(223,202,225,0.7); 
+    box-shadow: 20px 20px 9px -12px rgba(223,202,225,0.7);
+    color: rgb(0, 0, 5);
+    padding: 10px;
+    margin-top: 50px;
+}
+.tech-content-t p{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: 500;
+   
+
+}
+
+
+.tech-content-t:hover{
+    background-color: rgba(132, 91, 170, 0.889);
+    opacity: 0.7;
+    color: rgb(244, 236, 236);
+    cursor: pointer;
+    transition-duration: 1s;
+    -webkit-box-shadow: 30px 30px 9px -12px rgba(223,202,225,0.7); 
+    box-shadow: 30px 30px 9px -12px rgba(223,202,225,0.7);
+}
+
+
+.tech-content-marked-t{
+    background-color: rgb(179, 120, 233);
+}
+
+.tech-number{
+    border-radius: 90px;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: -30px;
+    line-height: 50px;
+}
+
+.load-more-tech-stack{
+    background-color: rgb(140, 101, 177);
+    width: 150px;
+    padding: 10px;
+    color: beige;
+    text-align: center;
+    justify-content: center;
+    display: table;
+    margin-left:auto;
+    margin-top: 35px;
+    margin-right:auto;
+    border-radius: 2px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+
+.load-more-tech-stack:hover{
+    background-color: black;
+    color: rgb(235, 222, 247);
+}
