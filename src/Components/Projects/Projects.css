@@ -1,0 +1,79 @@
+.project-section{
+    margin-top: 90px;
+    
+}
+
+
+
+.project-list{
+    -webkit-box-shadow: 3px 6px 11px 7px #CFBCCE; 
+    box-shadow: 3px 6px 11px 7px #CFBCCE;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.project-list-opned{
+    border-left: 5px solid rgb(124, 3, 237);
+}
+
+.project-list:hover{
+    border-left: 5px solid rgb(124, 3, 237);
+    cursor: pointer;
+    transition-duration: 0.2s;
+}
+
+.title-and-collapse-option{
+    display: flex;
+    justify-content: space-between;
+    margin: 1px;
+}
+
+.tech-used-in-project{
+   margin-top: 20px;
+   margin: 5px;
+}
+
+
+.tech-used-in-project p{
+    background-color: rgba(141, 114, 167, 0.832);
+    color: aliceblue;
+    border-radius: 90px;
+    padding: 8px;
+    text-align: center;
+
+}
+
+.tech-used-in-project p:hover {
+background-color: rgb(130, 123, 206);
+color: rgb(23, 20, 20);
+}
+
+
+.live-demo-button{
+    background-color: rgb(60, 31, 88);
+    border-radius: 90px;
+    padding: 7px;
+    width:fit-content;
+}
+
+.live-demo-button:hover{
+    background-color: rgb(0, 0, 0);
+    cursor: pointer;
+    transition-duration: 1s;
+}
+
+.live-demo-button a{
+    text-decoration: none;
+    color: beige;
+    padding: 7px;
+}
+
+.live-demo-button a:hover{
+    color: rgb(219, 251, 144);
+}
+
+.descritpion{
+    margin: 5px;
+    opacity: 0.9;
+}

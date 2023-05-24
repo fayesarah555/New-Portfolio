@@ -1,0 +1,79 @@
+.tech-line-vt{
+    display: block;
+    width: 210px;
+    height: 3px;
+    margin: 1px auto;
+    background-color: #1e0120e8;
+}
+
+.veilletech-section{
+    margin-top: 70px;
+    height: 80vh;
+    margin: 10px;
+    margin-left: 90px;
+   
+}
+
+.content-slider-main{
+    margin-top: 20px;
+}
+
+.content-slider{
+
+background-color: rgb(72, 48, 80);
+color: azure;
+padding: 10px;
+/* margin: 100px; */
+margin-top: 50px;
+text-align: center;
+margin-bottom: 30px;
+cursor: pointer;
+height: 350px;
+margin-left: 50px;
+border-radius: 5px;
+-webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.24); 
+box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.24);
+}
+
+.content-slider:hover{
+    background-color: rgb(220, 167, 233);
+    color: black;
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.38); 
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.38);
+}
+
+
+.content-slider img.center-image{
+    width: 80px;
+    height: 80px;
+    border-radius: 90px;
+    border: 3px solid rgb(227, 210, 244);
+    display: block;
+    margin: 0 auto;
+    object-fit: cover;
+    margin-top: -30;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.vp{
+    background-color: rgb(211, 196, 224);
+    border-radius: 90px;
+    padding: 7px;
+    width:fit-content;
+    text-decoration: none;
+    color: black;
+    margin-top: 20px;
+}
+
+.vp:hover{
+    background-color: rgb(0, 0, 0);
+    cursor: pointer;
+    transition-duration: 1s;
+    color: rgb(219, 251, 144);
+}
+
+
+
